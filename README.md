@@ -36,3 +36,39 @@ este texto esta en **_negrita y cursiva_**
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
 ![Esto es una imagen](https://github.com/JavierMartinez05/ASIX1M4UF1-A3Apuntes/blob/main/diagrama.jpg "Titulo opcional de la imagen")
+
+<h4>Si queremos hacer tablas</h4>
+ <table border="1">
+        <thead>
+            <tr>
+                <th>Puesto</th>
+                <th>Atleta</th>
+                <th>Tiempo</th>
+            </tr>
+          
+        </thead>
+        <tbody>
+            <tr>
+                <td>1r</td>
+                <td>Michael Phelps</td>
+                <td>15:01</td>
+            </tr>
+            <tr>
+                <td>2n</td>
+                <td>Pedro benito</td>
+                <td>16:00</td>
+            </tr>
+            <tr>
+                <td>3r</td>
+                <td>Gerard Romero</td>
+                <td>16:34</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+        </tfoot>
+    </table>
