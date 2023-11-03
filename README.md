@@ -1,6 +1,9 @@
 # ASIX1M4UF1-A3Apuntes
 Apuntes M4
 
+<hr>
+<hr>
+
 ## Primer capitulo: MARKDOWN...
 ok
 este texto esta en *cursiva*
@@ -23,8 +26,14 @@ este texto esta en **_negrita y cursiva_**
 + Quinta opción de lista desordenada
 + Sexta opción de lista desordenada
 
+<hr>
+<hr>
+
 <h4>Para hacer un parrafo:</h4>
 ```Lo podemos hacer poniendo lo siguiente: <p>Esto es un parrafo</p>```
+
+<hr>
+<hr>
 
 <h4>Para crear un enlace</h4>
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
@@ -33,6 +42,7 @@ este texto esta en **_negrita y cursiva_**
 
 <hr>
 <hr>
+
 <h3>Tablas</h3>
 <h4>CSS</h4>
 <head>
