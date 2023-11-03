@@ -23,16 +23,10 @@ este texto esta en **_negrita y cursiva_**
 + Quinta opción de lista desordenada
 + Sexta opción de lista desordenada
 
-```
-<html>
-    <head>
-    </head>
-    <body>
-        <p>Esto es un parrafo</p>
-    </body>
-</html>
-```
+<h4>Para hacer un parrafo:</h4>
+```Lo podemos hacer poniendo lo siguiente: <p>Esto es un parrafo</p>```
 
+<h4>Para crear un enlace</h4>
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
 ![Esto es una imagen](https://github.com/JavierMartinez05/ASIX1M4UF1-A3Apuntes/blob/main/diagrama.jpg "Titulo opcional de la imagen")
