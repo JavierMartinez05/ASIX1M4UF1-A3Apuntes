@@ -31,23 +31,39 @@ este texto esta en **_negrita y cursiva_**
 
 ![Esto es una imagen](https://github.com/JavierMartinez05/ASIX1M4UF1-A3Apuntes/blob/main/diagrama.jpg "Titulo opcional de la imagen")
 
-<h4>Si queremos hacer tablas</h4>
- <table border="1">
+<h3>Tablas</h3>
+<h4>CSS</h4>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .textovioleta{
+            color: black;
+            background-color: blueviolet;
+        }
+        #primerafila{
+            color: black;
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <table border="1" style="color: red; text-align: center;">
         <thead>
-            <tr>
+            <tr id="primerafila">
                 <th>Puesto</th>
                 <th>Atleta</th>
                 <th>Tiempo</th>
             </tr>
-          
         </thead>
-        <tbody>
-            <tr>
+        <tbody style="background-color: rgb(0, 0, 255); color:white">
+            <tr class="textovioleta">
                 <td>1r</td>
                 <td>Michael Phelps</td>
                 <td>15:01</td>
             </tr>
-            <tr>
+            <tr class="textovioleta">
                 <td>2n</td>
                 <td>Pedro benito</td>
                 <td>16:00</td>
@@ -66,3 +82,4 @@ este texto esta en **_negrita y cursiva_**
             </tr>
         </tfoot>
     </table>
+</body>
