@@ -61,7 +61,7 @@ este texto esta en **_negrita y cursiva_**
     </style>
 </head>
 <body>
-    <table border="1" style="color: red; text-align: center;">
+    <table borde="1" style="color: red; text-align: center;">
         <thead>
             <tr id="primerafila">
                 <th>Puesto</th>
@@ -94,7 +94,7 @@ este texto esta en **_negrita y cursiva_**
             </tr>
         </tfoot>
     </table>
-    
-    <h3>Cuarto capitulo</h3>
-    
-</body>
+  
+<h2>Cuarto capitulo</h2> 
+
+  </body>
