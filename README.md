@@ -26,10 +26,10 @@ este texto esta en **_negrita y cursiva_**
 + Quinta opción de lista desordenada
 + Sexta opción de lista desordenada
 
+Todo esto es un ejemplo para que a la hora de leer, a la gente sea mas facil por tema de que esta mas ordenada la informacion
+
 <hr>
 <hr>
 
   
 <h2>Cuarto</h2> 
-
-  </body>
