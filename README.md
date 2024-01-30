@@ -41,6 +41,15 @@ Un body - donde irá toda la información que le queramos añadir a nuestra pagi
 Antes de empezar a diseñar el body, tenemos que ir al head y poner, html:5, lo cual nos rellenara con lo necesario que tiene que tener el head en un archivo html.
 <hr>
 En el apartado: ```<title>Documen</title>``` tenemos que poner el titulo que queremos que aparezca en la parte superior del documento (en el buscador aparecerá el nombre que le hemos puesto)
+<br>
+
+Una parte para poner contenido a la página web son los cuales esta en el código de arriba. Para ponerle un tñitulo principal a la página web se inicia la etiqueta con ```<h1>```, depués se pone el título y se cierra con ```</h1>```. Esta etiqueta ```<p>```, sirve para poder añadir contenido de forma de un párrafo en la web y para cerrar ```</p>```. La etiqueta ```<br>``` da un salto de línea para que los textos o párrafos no esten pegados y otra etiqueta que sirve para separa es ```<hr/>```, lo cual separa con una linea los párrafos.
+
+La etiqueta h1, se usa principalmente para poner los titulos, la cual cerramos con </h1>
+<br>
+
+
+Hay 3 etiquetas principales para añadir formato a las palabras. ```<strong>``` y ```</strong>```, dentro de esas dos etiquetas lo que ponga saldrá en negrita. Ahora las siguientes etiquetas tanto inicio y final son ```<u>``` y ```</u>```, la parte de entre dos va subrayado y la última lo que va dentro de estas etiquetas es ```<i>``` y ```</i>```, sale en formato cursiva. Así se acabaría estos 3 principales formatos.
 
 <hr>
 <hr>
