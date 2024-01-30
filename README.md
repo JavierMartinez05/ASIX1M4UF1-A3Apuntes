@@ -42,17 +42,25 @@ Antes de empezar a diseñar el body, tenemos que ir al head y poner, html:5, lo 
 <hr>
 En el apartado: ```<title>Documen</title>``` tenemos que poner el titulo que queremos que aparezca en la parte superior del documento (en el buscador aparecerá el nombre que le hemos puesto)
 <br>
-
-Una parte para poner contenido a la página web son los cuales esta en el código de arriba. Para ponerle un tñitulo principal a la página web se inicia la etiqueta con ```<h1>```, depués se pone el título y se cierra con ```</h1>```. Esta etiqueta ```<p>```, sirve para poder añadir contenido de forma de un párrafo en la web y para cerrar ```</p>```. La etiqueta ```<br>``` da un salto de línea para que los textos o párrafos no esten pegados y otra etiqueta que sirve para separa es ```<hr/>```, lo cual separa con una linea los párrafos.
-
 La etiqueta h1, se usa principalmente para poner los titulos, la cual cerramos con </h1>
 <br>
-```<p> y </p>, se usan para añadir contenido en forma de parrafo
-
-Hay 3 etiquetas principales para añadir formato a las palabras. ```<strong>``` y ```</strong>```, dentro de esas dos etiquetas lo que ponga saldrá en negrita. Ahora las siguientes etiquetas tanto inicio y final son ```<u>``` y ```</u>```, la parte de entre dos va subrayado y la última lo que va dentro de estas etiquetas es ```<i>``` y ```</i>```, sale en formato cursiva. Así se acabaría estos 3 principales formatos.
-
+La wtiqueta p, se usa para añadir informacion en forma de parrafo, y lo cerramos asi /p, y todo esto entre <>
+<br>
+Luego tenemos los enters, hr, que sirve para hacer un enter, metiendo una linea de separacion por en medio
+<br>
+Ahora vamos con un poco de diseño como strong, que es para remarcar una palabra en negrita, la letra i, que es para poner en cursiva algo, y la u, que es para subrayar alguna información
 <hr>
 <hr>
-
+LISTAS:
+<br>
+Las listas las podemos hacer ordenadas o desordenadas:
+<br>
+ORDENADAS:
+<br>
+Abrimos con un li, que es la forma en la que decimos que queremos abrir una lista, y si la quieremos desordenada, dentro de la propia etiqueta li, ponemos ol. Dentro de la etiqueta ol, podemos empezar a decir los articulos que contiene la lista
+<hr>
+DEESORDENADAS:
+<br>
+Para hacer una lista desordenada hay que seguir los mismos pasos que para hacer una ordenada, salvo que hay que cambiar la etiqueta que metemos dentro del li, suplantando ol, por ul, y seguidamente dentro de la etiqueta ul, podemos comenzar a meter los articulos que queramos dentro de nuestra lista desordenada
   
 <h2>Cuarto</h2> 
