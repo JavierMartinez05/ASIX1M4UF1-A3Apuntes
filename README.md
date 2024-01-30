@@ -66,7 +66,6 @@ Para hacer una lista desordenada hay que seguir los mismos pasos que para hacer 
 <hr>
 TABLAS:
 <br>
-Pie o foot: Por último delitamos el pie de la tabla, comenzamos a abrir la parte de celdas con ```<tfood>``` para inicar con las fila de celdas de etiquetas ```<tr>``` y dentro ella por cada fila abrimos con ```<th>```, para inicar otro y cerramos con ```</th>```, depués de poner contenido cerramos filas de celdas con etiqueta ```</tr>``` y por último la parte de esa tabla con ```</tfood>```. Con todo eso introducio pasamos a cerrar toda la tabla con la etiqueta de ```</table>``` y estaría terminada la tabla.
 
 Para empezar a crearuna tabla, primero habra que crear los bordes con: table border="borde1"
 <br>
