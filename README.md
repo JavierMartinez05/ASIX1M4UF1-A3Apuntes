@@ -95,6 +95,6 @@ este texto esta en **_negrita y cursiva_**
         </tfoot>
     </table>
   
-<h2>Cuarto capitulo</h2> 
+<h2>Cuarto</h2> 
 
   </body>
