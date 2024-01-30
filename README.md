@@ -168,3 +168,54 @@ El diseño responsive, es mucho mas util de lo que parece, ya que hace que no im
 También es bastante frecuente usar comandos, como los que te voy a mostrar a continuación:
 
 **FLOAT**
+<br>
+Este comando, se usa para alinear el elemento hacia la derecha o hacia la izquierda, obviamente sin modificar lo de alrededor, es decir que se ajusta automaticamente:
+
+#right{
+    float: right;
+}
+
+**DISPLAY**
+<br>
+Este comando podemos decir que "transforma" los DIV en celdas:
+
+.flex{
+    display: flex;
+}
+
+**BOX-SIZING**
+<br>
+Este comando se usa para modificar tanto borde y ancho y ajusta la medida al tamaño del contenido de la pagina:
+
+*{
+    box-sizing: border-box;     
+}
+
+**FLEX-DIRECTION**
+<br>
+Comando bastante util, y esque su funcionalidad es que mueve los elementos de la pagina, en base hacia donde movamos nosotros la pantalla
+
+.box {
+  display: flex;
+  flex-direction: column;
+}
+
+**ALIGN**
+<br>
+Como podemos tener en aplicaciones como Word, aqui también tenemos, y es el:
+
+.flex{
+    align-items: center;
+}
+
+Su principal funcion, es alinear los elementos a donde tu le pidas
+
+**JUSTIFY-CONTENT**
+<br>
+Otro comando que nos podemos encontrar en Word, y nada diferente, sirve para justificar el contenido de la pagina web, poniendole un start, es para que lo justifique al borde inicial:
+
+.box{
+    justify-content: start;
+}
+
+**IMAGENES**
