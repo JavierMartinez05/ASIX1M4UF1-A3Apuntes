@@ -35,7 +35,12 @@ HTML es el código que se utiliza para estructurar y desplegar una página web.
 Para crear una buena pagina HTML, tiene que estar compuesta de:
 <hr>
 Un head - donde pondremos informacion sobre la pagina y algunos ajustes
+<hr>
 Un body - donde irá toda la información que le queramos añadir a nuestra pagina web
+<hr>
+Antes de empezar a diseñar el body, tenemos que ir al head y poner, html:5, lo cual nos rellenara con lo necesario que tiene que tener el head en un archivo html.
+<hr>
+En el apartado: ```<title>Documen</title>``` tenemos que poner el titulo que queremos que aparezca en la parte superior del documento (en el buscador aparecerá el nombre que le hemos puesto)
 
 <hr>
 <hr>
