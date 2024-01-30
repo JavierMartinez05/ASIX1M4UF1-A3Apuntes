@@ -26,7 +26,15 @@ este texto esta en **_negrita y cursiva_**
 + Quinta opción de lista desordenada
 + Sexta opción de lista desordenada
 
-Todo esto es un ejemplo para que a la hora de leer, a la gente sea mas facil por tema de que esta mas ordenada la informacion
+Todo esto es un ejemplo para que a la hora de leer, a la gente sea mas facil por tema de que esta mas ordenada la 
+
+## Segundo Capítulo: HTML
+
+HTML es el código que se utiliza para estructurar y desplegar una página web.
+
+Para crear una buena pagina HTML, tiene que estar compuesta de:
+Un head - donde pondremos informacion sobre la pagina y algunos ajustes
+Un body - donde irá toda la información que le queramos añadir a nuestra pagina web
 
 <hr>
 <hr>
