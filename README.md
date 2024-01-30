@@ -33,6 +33,7 @@ Todo esto es un ejemplo para que a la hora de leer, a la gente sea mas facil por
 HTML es el código que se utiliza para estructurar y desplegar una página web.
 
 Para crear una buena pagina HTML, tiene que estar compuesta de:
+<hr>
 Un head - donde pondremos informacion sobre la pagina y algunos ajustes
 Un body - donde irá toda la información que le queramos añadir a nuestra pagina web
 
