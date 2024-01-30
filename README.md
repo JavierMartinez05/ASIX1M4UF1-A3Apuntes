@@ -47,7 +47,7 @@ Una parte para poner contenido a la página web son los cuales esta en el códig
 
 La etiqueta h1, se usa principalmente para poner los titulos, la cual cerramos con </h1>
 <br>
-
+```<p> y </p>, se usan para añadir contenido en forma de parrafo
 
 Hay 3 etiquetas principales para añadir formato a las palabras. ```<strong>``` y ```</strong>```, dentro de esas dos etiquetas lo que ponga saldrá en negrita. Ahora las siguientes etiquetas tanto inicio y final son ```<u>``` y ```</u>```, la parte de entre dos va subrayado y la última lo que va dentro de estas etiquetas es ```<i>``` y ```</i>```, sale en formato cursiva. Así se acabaría estos 3 principales formatos.
 
