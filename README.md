@@ -151,3 +151,13 @@ p > strong{
 }
 
 Aqui vemos que tenemos > esta flecha que indica que se le aplicará a todos los strong.
+
+**Dentro de archivo HTML**
+
+Si que es verdad que tambien podemos poner todo esto, dentro del archivo HTML, pero con algunas condiciones, y es que los ID, clases y * deben ir dentro del Head 
+<br>
+De igual manera que colores, formato de texto, y colores de background, va todo dentro de la misma etiqueta
+
+
+## Cuarto Capitulo: DISEÑO RESPONSIVE
+
