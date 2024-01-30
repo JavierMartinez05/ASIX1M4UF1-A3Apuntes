@@ -99,5 +99,55 @@ Los selectores generales se representan con un *, y significa que seleccionas to
 <br>
 
 **Selectores etiquetas:**
+<br>
+En este selector, lo usamos para concretar un poco mas, pero no mucho, este selector tiene la misma funcion que el anterior, aunque aplicandoselo a:
+<br>
+Head
+<br>
+Body
+<br>
+h1, h2, h3...
+<br>
+p
+<br>
+Aqui tenemos un ejemplo:
+<br>
+body{
+    background-color red    
+}
+<br>
+
+**Identificadores y clases:**
+<br>
+Los identificadores, se usan para un elemento el cual es unico en la pagina html, es decir que solo existe ese h2 o ese h5 etc. Los identificadores a la hora de implementarlos son tal que asi, siempre con un #:
+<br>
+#nombredelID{
+    elementos que queramos aplicarle
+}
+<br>
+Por otro lado, las clases, se utilizan para cuando en una misma pagina web, hay varios h2 o varios h5, para seleccionar especificamente cual queremos modificar. A la hora de implementarlas son así, siempre con un . :
+<br>
+.nombredelaclase{
+    elementos que le queramos aplicar
+}
+
+**Descendientes y hijos:**
+
+Descendientes: Los descendientes son cualquier elemento que este anidado dentro de otro, dando igual a que profundidad de jerarquía está
 
 
+ol li{
+    elemento que queramos poner
+}
+
+
+Aquí tenemos el ejemplo mas claro, los elementos que esten dentro de ol, se les aplicará lo que le queramos poner.
+
+Hijos: Los hijos, son aquel elemento que esta anidado directamente a otro elemento superior
+
+
+p > strong{
+    elemento que queramos poner
+}
+
+Aqui vemos que tenemos > esta flecha que indica que se le aplicará a todos los strong.
