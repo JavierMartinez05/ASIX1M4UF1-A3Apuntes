@@ -161,3 +161,10 @@ De igual manera que colores, formato de texto, y colores de background, va todo 
 
 ## Cuarto Capitulo: DISEÑO RESPONSIVE
 
+Aqui tambien implementamos CSS, aunque aqui es mas para poner medidas, ocultar elementos...
+<br>
+El diseño responsive, es mucho mas util de lo que parece, ya que hace que no importe desde donde ves la pagina web, ya que te ajusta automaticamente las medidas y la resolución. Cabe destacar, que en Diseño responsive, el uso de etiquetas como section y como div, es bastante frecuente.
+<br>
+También es bastante frecuente usar comandos, como los que te voy a mostrar a continuación:
+
+**FLOAT**
