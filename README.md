@@ -80,4 +80,23 @@ Seguimos conn el tbody, y repetimos el proceso con el tr para agregar filas vert
 Y acabamos con el tfoot, donde meteremos dentro un tr para filas verticales y un th para filas horizontales.
 
   
-<h2>Cuarto</h2> 
+## Tercer capítulo: CSS
+
+El CSS probablemente es de lo mas importante a la hora de crear una pagina web, ya que es lo que le da todo el diseño a nustra pagina web.
+<br>
+Para hacer funcionar una hoja CSS, tenemos que añadir esta linea en el head: La etiqueta link rel="stylesheet" href="Ruta donde tengamos la hoja CSS" type="text/css
+<br>
+Esa hoja aparte de CSS su funcion es que no tengamos todo el CSS juntado con el HTML
+<br>
+
+***Selector general:**
+Los selectores generales se representan con un *, y significa que seleccionas toda la pagina, esto es util por ejemplo para decidir ka tipografia de letra que quieres que tenga tu pagina web
+*{
+
+   font-family: "Nombre de la tipografia que queremos implementar"
+}
+<br>
+
+**Selectores etiquetas:**
+
+
