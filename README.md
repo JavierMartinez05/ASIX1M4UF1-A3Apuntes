@@ -90,6 +90,7 @@ Esa hoja aparte de CSS su funcion es que no tengamos todo el CSS juntado con el 
 <br>
 
 ***Selector general:**
+<br>
 Los selectores generales se representan con un *, y significa que seleccionas toda la pagina, esto es util por ejemplo para decidir ka tipografia de letra que quieres que tenga tu pagina web
 *{
 
