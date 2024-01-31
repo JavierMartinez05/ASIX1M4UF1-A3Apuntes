@@ -219,3 +219,23 @@ Otro comando que nos podemos encontrar en Word, y nada diferente, sirve para jus
 }
 
 **IMAGENES**
+<br>
+Esta parte es importante si queremos que las imagenes se ajusten automaticamente al ancho de la pagina y decirle que altura queremos que tenga:
+
+header{
+    height: 100vh;
+    background-image: url(ruta donde tenemos al imagen);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+El background image, como su nombre dice, es para poner una imagen de fondo.
+<br>
+El background size cover, es para que la imagen de fondo de ajuste automaticamente al tamaño
+<br>
+El background position center tambien como su propio nombre indica, es para que el fondo esté centrado al contenedor
+<br>
+El background attachment fixed, significa que la imagen de fondo, se queda fijada en la posicion, haciendo que por mas que nos movamos, el fondo se quedará fijo en su puesto
+<hr>
+ESTOS SON LOS APUNTES DE JAVIER MARTINEZ CESPEDES
