@@ -13,8 +13,11 @@ Si queremos ir actualizando nuestro repositorio a medida que vamos haciendo camb
 Ejecutar la terminal dentro del repositorio que queremos actualizar
 <br>
 git init 
+<hr>
 git add .
+<hr>
 git commit -m "Nuevo titulo"
+<hr>
 git push origin main
 
 
