@@ -11,7 +11,7 @@ GitHub es un portal web cuya funcionalidad es crear repositorios para que podamo
 Si queremos ir actualizando nuestro repositorio a medida que vamos haciendo cambios, tenemos que:
 <br>
 Ejecutar la terminal dentro del repositorio que queremos actualizar
-<br>
+<hr>
 git init 
 <hr>
 git add .
