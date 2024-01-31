@@ -4,6 +4,20 @@ Apuntes M4
 <hr>
 <hr>
 
+
+## GITHUB
+GitHub es un portal web cuya funcionalidad es crear repositorios para que podamos guardar trabajos en la nube, y asi poder compartirlos con la gente que nosotros queramos.
+<br>
+Si queremos ir actualizando nuestro repositorio a medida que vamos haciendo cambios, tenemos que:
+<br>
+Ejecutar la terminal dentro del repositorio que queremos actualizar
+<br>
+git init 
+git add .
+git commit -m "Nuevo titulo"
+git push origin main
+
+
 ## Primer capitulo: MARKDOWN...
 ok
 este texto esta en *cursiva*
